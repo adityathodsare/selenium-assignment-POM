@@ -25,12 +25,4 @@ Chrome Browser
 * Login Functionality
 * Create Employee Functionality
 
----
 
-
----
-
-## Author
-
-Aditya Thodsare
-Automation Testing Assignment
